@@ -2,5 +2,5 @@
 
 
 
-[20170608_kotlin入门]( https://clockknock.github.io/blog/20170608_kotlin%E5%85%A5%E9%97%A8.html)
+[点我进入博客视图]( https://clockknock.github.io/blog/)
 
